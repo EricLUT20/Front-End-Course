@@ -17,7 +17,7 @@ Alternatively, if you want to set up this project locally, follow these steps:
 
 2. **Navigate to the project directory:**
     ```bash
-    cd Front-End-Course/Project
+    cd Project
     ```
 
 3. **Install dependencies:**
